@@ -6,7 +6,7 @@ return {
         local bufferline = require('bufferline')
         bufferline.setup {
             options = {
-                buffer_close_icon = '',
+                buffer_close_icon = "",
                 diagnostics = "coc"
             }
         }
