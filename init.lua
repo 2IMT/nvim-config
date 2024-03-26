@@ -1,2 +1,2 @@
-require("daniil.core")
-require("daniil.lazy")
+require("2imt.core")
+require("2imt.lazy")
